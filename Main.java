@@ -1,6 +1,6 @@
 
 /**
- * @author (Dylan Taylor)
+ * @author (Dylan)
  * @version (Started development on 14/9/2023) (Complete as of 12/10/2023)
  */
 import java.util.Scanner;
